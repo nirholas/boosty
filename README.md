@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-Production-green?style=for-the-badge&logo=solana" alt="Solana">
-  <img src="https://img.shields.io/badge/EVM-Supported-blue?style=for-the-badge&logo=ethereum" alt="EVM">
+  <img src="https://img.shields.io/badge/EVM-Supported-blue?style=for-the-badge&logo=ethereum" alt="EVM"> 
   <img src="https://img.shields.io/badge/MCP-Compatible-purple?style=for-the-badge" alt="MCP">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
 </p>
