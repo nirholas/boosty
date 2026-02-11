@@ -1,0 +1,18 @@
+# boosty
+
+> All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer. 
+
+## Overview
+
+boosty is an open-source project by nirholas. All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer. 
+
+## Repository
+
+- URL: https://github.com/nirholas/boosty
+- Language: TypeScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

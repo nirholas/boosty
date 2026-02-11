@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "boosty",
+    "name_for_model": "boosty",
+    "description_for_human": "All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer. ",
+    "description_for_model": "All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer. ",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/boosty/blob/main/LICENSE"
+}

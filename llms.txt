@@ -1,0 +1,9 @@
+# boosty
+
+> All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer. 
+
+## Links
+
+- Repository: https://github.com/nirholas/boosty
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/boosty/main/llms-full.txt

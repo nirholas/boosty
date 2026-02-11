@@ -1,0 +1,13 @@
+{
+    "name": "boosty",
+    "description": "All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer. ",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/boosty",
+    "language": "TypeScript",
+    "topics": [
+        "nirholas",
+        "boosty",
+        "open-source"
+    ]
+}
