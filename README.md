@@ -1,5 +1,5 @@
 #  Boosty MCP DeFi Platform
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-Production-green?style=for-the-badge&logo=solana" alt="Solana">
   <img src="https://img.shields.io/badge/EVM-Supported-blue?style=for-the-badge&logo=ethereum" alt="EVM"> 
