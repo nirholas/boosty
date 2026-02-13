@@ -1,4 +1,4 @@
-#  Boosty MCP DeFi Platform
+#  Boosty 
  
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-Production-green?style=for-the-badge&logo=solana" alt="Solana">
