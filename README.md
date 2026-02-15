@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Enterprise-Grade DeFi Infrastructure for Model Context Protocol</strong>
+  <strong> [WORK IN PROGRESS] DeFi Infrastructure for Model Context Protocol</strong>
 </p>
 
 <p align="center">
