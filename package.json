@@ -1,5 +1,9 @@
 {
   "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirholas/boosty.git"
+  },
   "name": "boosty-mcp",
   "version": "1.0.0",
   "private": true,
