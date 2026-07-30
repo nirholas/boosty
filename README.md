@@ -2519,3 +2519,10 @@ curl -X POST https://modelcontextprotocol.name/mcp/boosty-defi \
 - **All 27 MCP servers** — See the full catalog at [modelcontextprotocol.name](https://modelcontextprotocol.name)
 
 > Powered by [modelcontextprotocol.name](https://modelcontextprotocol.name) — the open MCP HTTP gateway
+
+## Documentation
+
+Full documentation site: **https://nirholas.github.io/boosty/**
+
+- [Getting started](docs/getting-started.md) covers install and first run.
+- [Examples](docs/examples.md) has copy-paste snippets.
