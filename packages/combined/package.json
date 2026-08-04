@@ -15,7 +15,9 @@
   "bin": {
     "boosty-mcp": "./dist/cli.js"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsup",
     "dev": "ts-node src/cli.ts",
@@ -26,19 +28,19 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.0",
-    "@boosty/mcp-shared": "workspace:*",
     "@boosty/mcp-prices": "workspace:*",
+    "@boosty/mcp-shared": "workspace:*",
     "@boosty/mcp-wallets": "workspace:*",
     "@boosty/mcp-yields": "workspace:*",
-    "zod": "^3.22.0"
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^3.25.76"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
-    "typescript": "^5.0.0",
-    "vitest": "^1.0.0",
-    "ts-node": "^10.9.0",
-    "tsup": "^8.0.0"
+    "@types/node": "^20.19.43",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^1.6.1"
   },
   "engines": {
     "node": ">=18.0.0"

@@ -47,25 +47,25 @@
   },
   "dependencies": {
     "@coral-xyz/anchor": "^0.29.0",
-    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
-    "@metaplex-foundation/umi": "^0.9.1",
-    "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
-    "@modelcontextprotocol/sdk": "^1.0.0",
-    "@pythnetwork/client": "^2.21.0",
-    "@solana/spl-token": "^0.4.6",
-    "@solana/web3.js": "^1.95.0",
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@metaplex-foundation/umi": "^0.9.2",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.2",
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@pythnetwork/client": "^2.22.1",
+    "@solana/spl-token": "^0.4.15",
+    "@solana/web3.js": "^1.98.4",
     "bs58": "^5.0.0",
-    "jito-ts": "^4.1.0",
+    "jito-ts": "^4.2.1",
     "node-cache": "^5.1.2",
-    "p-retry": "^6.2.0",
-    "winston": "^3.11.0"
+    "p-retry": "^6.2.1",
+    "winston": "^3.19.0"
   },
   "devDependencies": {
     "@types/bs58": "^4.0.4",
-    "@types/node": "^20.11.0",
-    "tsup": "^8.0.0",
-    "typescript": "^5.3.0",
-    "vitest": "^1.2.0"
+    "@types/node": "^20.19.43",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^1.6.1"
   },
   "engines": {
     "node": ">=18.0.0"
