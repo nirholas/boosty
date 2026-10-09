@@ -2562,3 +2562,7 @@ Full documentation site: **https://nirholas.github.io/boosty/**
 
 - [Getting started](docs/getting-started.md) covers install and first run.
 - [Examples](docs/examples.md) has copy-paste snippets.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/boosty&type=Date)](https://www.star-history.com/#nirholas/boosty&Date)
