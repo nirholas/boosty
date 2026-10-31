@@ -163,10 +163,16 @@ export class DeFiMCPServer {
 
         // Settle payment after successful execution
         if (this.paymentMiddleware && paymentHeader) {
-          await this.paymentMiddleware.settleAfterExecution(
+          const settlement = await this.paymentMiddleware.settleAfterExecution(
             { toolName: name, arguments: args as Record<string, unknown>, headers: { 'x-payment': paymentHeader } },
             success
           );
+          if (!settlement.settled) {
+            throw new McpError(
+              ErrorCode.InternalError,
+              `Payment settlement failed: ${settlement.error || 'unknown error'}`
+            );
+          }
         }
 
         return {

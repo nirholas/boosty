@@ -208,10 +208,13 @@ export function withPaymentGating<TInput, TOutput>(
 
     // Settle payment
     if (result.settlementPending) {
-      await middleware.settleAfterExecution(
+      const settlement = await middleware.settleAfterExecution(
         { toolName, arguments: input as Record<string, unknown>, headers },
         success
       );
+      if (!settlement.settled) {
+        throw new Error(`Payment settlement failed: ${settlement.error || 'unknown error'}`);
+      }
     }
 
     return output;
