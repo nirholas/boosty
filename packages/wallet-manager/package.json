@@ -34,7 +34,7 @@
     "postgres": "^3.4.9",
     "tweetnacl": "^1.0.3",
     "uuid": "^9.0.1",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^20.19.43",
